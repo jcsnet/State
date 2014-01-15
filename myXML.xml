@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<numbers>
+	<version> 1.0 </version>
+	<number>
+		<name>jeden</name>
+		<value>1</value>
+	</number>
+	<number>
+		<name>dwa</name>
+		<value>2</value>
+	</number>
+	<number>
+		<name>trzy</name>
+		<value>3</value>
+	</number>
+	<number>
+		<name>cztery</name>
+		<value>4</value>
+	</number>
+	<number>
+		<name>piec</name>
+		<value>5</value>
+	</number>
+	<number>
+		<name>szesc</name>
+		<value>6</value>
+	</number>
+	<number>
+		<name>siedem</name>
+		<value>7</value>
+	</number>
+	<number>
+		<name>osiem</name>
+		<value>8</value>
+	</number>
+</numbers> 
